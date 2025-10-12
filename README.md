@@ -18,8 +18,8 @@ Bash, Powershell etc.
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/About-Me-brightgreen)](https://nguyencaoantuong.github.io/)
+[![portfolio](https://img.shields.io/badge/About-Me-black?style=for-the-badge&logo=jinja&logoColor=white)](https://nguyencaoantuong.github.io/)
 -
-[![Static Badge](https://img.shields.io/badge/My-Gitea_Instance-brightgreen)](http://ncatt.ddns.net:3000/)
+[![Static Badge](https://img.shields.io/badge/My-Gitea_Instance-green?style=for-the-badge&logo=gitea&logoColor=white)](http://ncatt.ddns.net:3000/)
 -
-[![Static Badgee](https://img.shields.io/badge/ncatyew's-OneDrive_Index-brightgreen)](http://ncatt.ddns.net:8788/)
+[![Static Badgee](https://img.shields.io/badge/ncatyew's-OneDrive_Index-blue?style=for-the-badge&logo=onedrive&logoColor=white)](http://ncatt.ddns.net:8788/)
