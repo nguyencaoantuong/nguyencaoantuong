@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="http://ncatt.ddns.net:3000/nguyencaoantuong/.profile/raw/branch/main/ayanami%20rei.jpg" />
+</p>
 
 # Hi, I'm nguyencaoantuong! 👋
 
